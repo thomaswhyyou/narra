@@ -1,0 +1,101 @@
+contact:
+  name: Thomas Yu
+  byword: Fullstack |> Functional |> Polyglot
+  phone: 646.812.7353
+  email: thomas.whyyou@gmail.com
+  website: heythomas.xyz
+  social: "@thomaswhyyou"
+  linkedin: linkedin/in/thomaswhyyou
+  location: New York, NY
+  notes:
+    - I'm a product-driven software engineer based in NYC, with a background in business and finance.
+    - I like to solve technical problems of `how`, in the context of `what` and `why` of the product.
+
+experience:
+  - name: Mealthy Inc
+    role: Freelance Software Engineer
+    start: Oct 2017
+    end: Current
+    notes:
+      - Work alongside a small team of engineers to iterate and accelerate
+        development of an early stage web project powered by Elixir, Phoenix, PostgreSQL and React
+      - "Add value across the stack: frontend and backend feature development,
+         API integrations, advising on data modeling, building out robust internal CMS tools,
+         optimizing for SEO and content visibility"
+
+  - name: Spring Inc
+    role: Senior Software Engineer
+    start: Jan 2016
+    end: Aug 2017
+    notes:
+      - Undertook an effort to empower internal teams and scale operations by
+        building technical solutions for a fashion and lifestyle shopping platform startup
+      - Engaged internal stakeholders to identify key business objectives,
+        developed roadmaps and executed on engineering using various stacks including Ruby on Rails, Python, and React
+      - Prototyped and shipped a range of internal products, including an order lifecycle management app, internal CMS for content curation, business analytics reporting
+
+  - name: Truveris
+    role: Software Engineer
+    start: May 14
+    end: Aug 15
+    notes:
+      - Full-stack web development with a Python stack and PostgreSQL to power B2B products
+        for a SasS startup in a prescription benefits management and analytics vertical
+      - Contributed to iOS development in Obj-C for interface development and API integrations
+
+  - name: Digital First Ventures Lab
+    role: Software Engineer
+    start: Oct 13
+    end: Apr 14
+    notes:
+      - Prototyped and iterated early stage products with a Python and Django stack for an in-house incubator arm of Digital First Media, a large print media company
+      - Built out backends to power a coupon aggregator app;
+        integration jobs to aggregate, validate and dedupe various sources;
+        full-text search implementation using Elasticsearch
+
+  - name: Citi Infrastructure Investors
+    role: Investment Principal
+    start: Sep 07
+    end: Jun 13
+    notes:
+      - One of seventeen investment professionals in an infrastructure private equity team with $3.4 billion in committed capital, investing in core infrastructure assets in control-driven buyout and public-private partnership transactions globally
+      - Evaluated and presented new investment opportunities to the Investment Committee through detailed financial, industry and risk analysis to provide valuation guidance
+
+  - name: Banc Of America Securities
+    role: Investment Banking Analyst
+    start: Jun 06
+    end: Aug 07
+    notes:
+      - Analyzed industry, market trends, and competition in Technology, Media and Telecom
+      - Developed financial models for M&As, LBOs, recap, and various financing scenarios
+      - Utilized trading comparable, precedent transaction, dcf, ability-to-pay, IPO valuation, and sum-of-the-parts analyses to prepare detailed valuations of companies
+
+education:
+  - name: Michigan State University
+    role: Eli Broad College of Business
+    start: Aug 02
+    end: May 06
+    notes:
+      - B.A. Accounting with Finance concentration, 3.75 GPA
+
+technical:
+  - name: Effective
+    notes:
+      - Elixir, Phoenix, Ecto
+      - React, JavaScript ES6
+      - Python, Flask, Django, Pyramid, SQLAlchemy
+      - Ruby, Rails
+      - PostgreSQL, AWS
+      - Financial modeling, Valuation
+  - name: Familiar
+    notes:
+      - Go, Obj-C (iOS)
+
+project:
+  - name: Moagraph
+    website: www.moagraph.com
+    notes:
+      - Alpha stage, personal project
+      - Aiming to build a publishing platform that empowers creatives with
+        infrastructure and monetization paths to achieve sustainability
+      - React, Elixir, Phoenix, PostgreSQL, GraphQL, AWS, Terraform, Ansible
