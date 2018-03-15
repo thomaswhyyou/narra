@@ -6,9 +6,6 @@ import resume from 'json-loader!yaml-loader!../resume.yaml'
 
 const { contact, experience, education, technical, project } = resume;
 
-// Hey kids here's a handy formula to estimate the chances of your work email getting a reply. 60% of the time, it works every time:
-//
-// 100% / # of recipients addressed - (# of questions asked x 10%)
 
 const Header = () => (
   <Head>
